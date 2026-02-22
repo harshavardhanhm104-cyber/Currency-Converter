@@ -2,7 +2,7 @@
 
 A modern and responsive Currency Converter web application that supports 195+ world currencies with real-time exchange rates.
 
-roject Overview
+Project Overview
 
 This web-based application allows users to convert currencies instantly using live exchange rate data. It features a clean UI, dark/light theme toggle, country flags, and detailed currency information.
 
